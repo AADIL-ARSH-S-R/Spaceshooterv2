@@ -8,8 +8,4 @@ Just edit assets to personalize the game.
 Transfer audio files to a folder named audio.
 Transfer the png files to a folder named assets.
 
-Thank You
-
-Yours sincerely,
-Aadil
-_THE OWNER
+Thank you.
